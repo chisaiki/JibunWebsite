@@ -2,8 +2,6 @@
 
 > Developer & Artificer
 
-[My custom website where you can learn about me and my experiences.]
-
 ## About the Project
 
 This is my personal portfolio website built to showcase my resume, professional experiences, projects, and development notes. The site serves as a comprehensive digital presence for my career as a developer and artificer.
@@ -16,17 +14,17 @@ This is my personal portfolio website built to showcase my resume, professional 
 
 ## Live Demo
 
-🔗 **Live Site:** [Add your deployed URL here]
+🔗 **Live Site:** [Add deployed URL here]
 
 ### Screenshots
-[Add screenshots of your main pages here when ready]
+[Add screenshots of main pages here when ready]
 
 ## Technologies Used
 
 ### Frontend
 - **React** - Component-based UI framework
 - **Vite** - Fast build tool and dev server
-- **[CSS Framework]** - [Add your styling choice here]
+- **[CSS Framework]** - [Add styling choice here]
 - **[Additional libraries]** - [List any other frontend tools]
 
 ### Development & Deployment
@@ -71,8 +69,8 @@ This is my personal portfolio website built to showcase my resume, professional 
 ## Features
 
 ### Current Features
-- [ ] **Resume Section** - [Describe your resume page]
-- [ ] **Project Portfolio** - [Showcase of your development projects]
+- [ ] **Resume Section** - [Describe resume page]
+- [ ] **Project Portfolio** - [Showcase of development projects]
 - [ ] **Experience Timeline** - [Professional experience display]
 - [ ] **Development Notes** - [Technical notes and learning documentation]
 - [ ] **Contact Information** - [Professional contact details]
