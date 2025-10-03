@@ -106,8 +106,8 @@ This is my personal portfolio website built to showcase my resume, professional 
 **Syeda** - Developer & Artificer
 
 - **Portfolio:** [Your website URL]
-- **GitHub:** [https://github.com/chisaiki](https://github.com/chisaiki)
-- **LinkedIn:** [https://www.linkedin.com/in/-syedarahman-/](https://www.linkedin.com/in/-syedarahman-/)
+- **GitHub:** [chisaiki](https://github.com/chisaiki)
+- **LinkedIn:** [-syedarahman-/](https://www.linkedin.com/in/-syedarahman-/)
 - **Email:**: 99rahmans@gmail.com
 
 ---
